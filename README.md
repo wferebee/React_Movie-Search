@@ -8,13 +8,13 @@ This is a simple movie search web app. You can search for the movie of your choi
 <br />
 
 ## Technologies Used
-<br />
-* React
-* Omdb API
-* Bootstrap
-* JSX
-* CSS
-* Node
-* NPM
+
+*React
+*Omdb API
+*Bootstrap
+*JSX
+*CSS
+*Node
+*NPM
 
 
