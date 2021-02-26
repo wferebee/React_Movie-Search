@@ -21,6 +21,6 @@ This is a simple movie search web app. You can search for the movie of your choi
 * JSX
 * CSS
 * Node
-* NPM
+* NPM 
 
 
